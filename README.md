@@ -16,7 +16,7 @@ Check the full documentation on the [Travel Review Sentiment API for PHP API](ht
 | Resource | Link |
 |----------|------|
 | **Main API Documentation** | [Authorization, Webhooks, Polling & More](https://documenter.getpostman.com/view/31106842/2s9Ye8faUp) |
-| **Postman Documentation** | [View Docs](https://documenter.getpostman.com/view/31106842/2sBXVeGsVf) |
+| **Postman Documentation** | [View Docs](https://documenter.getpostman.com/view/31106842/2sBXVeGseb) |
 | **Product Details** | [SharpAPI.com](https://sharpapi.com/en/catalog/ai/travel-tourism-hospitality/travel-review-sentiment-checker) |
 | **SDK Libraries** | [GitHub - SharpAPI SDKs](https://github.com/sharpapi) |
 
